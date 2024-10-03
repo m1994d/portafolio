@@ -3,4 +3,13 @@
     font-weight: 700;
     line-height: 3.757rem;
     padding-top: 3.2rem;
+    color: #292929; /* Color por defecto */
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99; /* Efecto neón */
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.skills__title:hover{
+    color: #000000; /* Color neón cuando el cursor pasa por encima */
+    text-shadow: 0 0 10px #1a1a1a, 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99, 0 0 70px #00ff99;
+    font-weight: bold; /* Opción para hacer más grueso el texto */
 }
