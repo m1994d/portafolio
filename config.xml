@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+	<languages>
+		<language id="es">
+			<name>Es</name>
+			<title>Faraday Software</title>
+			<welcome>¡Bienvenido!</welcome>
+			<about>Sobre mi</about>
+			<skills>Habilidades</skills>
+			<hobbies>Hobbies</hobbies>
+			<hobbies1>Permacultura</hobbies1>
+			<hobbies2>Acuicultura</hobbies2>
+			<hobbies3>Jardineria</hobbies3>
+			<hobbies4>Viajar</hobbies4>
+			<hobbies5>e-learning</hobbies5>
+			<hobbies6>Video Juegos</hobbies6>
+			<formation>Educación</formation>
+			<projects>Proyectos</projects>
+			<herobio>Hola, mi nombre es Faraday y construyo paginas web</herobio>
+			<!-- <herobio>Hola, mi nombre es Faraday y construyo paginas web</herobio> -->
+			<herosubsection>Soy autodidacta en Ingenieria de software, actualmente estoy participando en el proyecto Oracle ONE en Alura Latam.</herosubsection>
+			<cv>Currículo</cv>
+			<abouttitle>Sobre mi</abouttitle>
+			<abouttitlep1>Soy un desarrollador autodidacta de aplicaciones web y móviles con experiencia en tecnologías modernas como Angular, Vue.js y React. Me apasiona la permacultura, la bioconstrucción, las manualidades, la jardinería y viajar por los pueblos mágicos, ríos y playas de mi país. Nací en la Ciudad de México en 1987.</abouttitlep1>
+			<abouttitlep2>Estoy comprometido con la innovación y la creatividad, y siempre estoy buscando nuevas formas de resolver problemas y mejorar la experiencia del usuario.</abouttitlep2>
+			<academictitle>Formación académica</academictitle>
+			<academicsubtitle1>Ingeniería de Software</academicsubtitle1>
+			<academicsubtitlep1>2018 - Ceneval Acuerdo 286</academicsubtitlep1>
+			<academicsubtitle2>Colegio de Bachilleres</academicsubtitle2>
+			<academicsubtitlep2>Bachillerato Tecnico Informatica</academicsubtitlep2>
+			<academicsubtitle3>Front-End</academicsubtitle3>
+			<academicsubtitlep3>En curso - Orcale + Alura</academicsubtitlep3>
+			<experiencetitle>Experiencia Profesional</experiencetitle>
+			<experienceworktitle1>Chat 2D, HTML, Canvas, Javascript, NodeJS WebSockets</experienceworktitle1>
+			<experiencetext1>Aplicación de comunicación en tiempo real con ambiente gráfico.</experiencetext1>
+			<experienceworktitle2>Aplicación movil, React Native, Firebase, Tienda, repartidor y CMS</experienceworktitle2>
+			<experiencetext2>Enfocada en entregas a domicilio, y seguimiento en tiempo real en mapas de google con notificaciones push. </experiencetext2>
+			<experienceworktitle3>Software de Directorios, Unity, C#</experienceworktitle3>
+			<experiencetext3>Programa de escritorio, para directorios, Editor de mapas y publicidad.</experiencetext3>
+			<experienceworktitle4>Software de Directorios, Adobe Flash, AS3, SenchaJS CMS</experienceworktitle4>
+			<experiencetext4>Software para directorios en centros comerciales, aplicación de escritorio y editor de mapas.</experiencetext4>
+			<experiencebotonrepo>Repositório</experiencebotonrepo>
+			<experiencebotondemo>Ver demo</experiencebotondemo>
+			<contactotitle>Contacto</contactotitle>
+			<contactocontactme>¿Quieres contactarme?</contactocontactme>
+			<contactotxt>Complete el siguiente formulario y me pondré en contacto con usted lo antes posible.</contactotxt>
+			<formname>Nombre</formname>
+			<formemail>E-mail</formemail>
+			<formsubject>Asunto</formsubject>
+			<formessage>Mensaje</formessage>
+			<formbtnsend>Enviar mensaje</formbtnsend>
+			<devinfo>Desarrollado por </devinfo>
+			<autor>Faraday Martínez</autor>
+		</language>
+		<language id="en">
+			<name>En</name>
+			<title>Faraday Software</title>
+			<welcome>Welcome!</welcome>
+			<about>About me</about>
+			<skills>Skills</skills>
+			<hobbies>Hobbies</hobbies>
+			<hobbies1>Permaculture</hobbies1>
+			<hobbies2>Aquaculture</hobbies2>
+			<hobbies3>Gardening</hobbies3>
+			<hobbies4>Travel</hobbies4>
+			<hobbies5>e-learning</hobbies5>
+			<hobbies6>Video Games</hobbies6>
+			<formation>Education</formation>
+			<projects>Projects</projects>
+			<herobio>Hello, my name is Faraday and I build websites</herobio>
+			<herosubsection>I am trained in software engineering, I am currently participating in the Oracle ONE project in Alura Latam.</herosubsection>
+			<cv>Curriculum</cv>
+			<abouttitle> About me</abouttitle>
+			<abouttitlep1>I am a self-taught developer of web and mobile applications with experience in modern technologies such as Angular, Vue.js, and React. I am passionate about permaculture, bioconstruction, handicrafts, gardening, and traveling through the magical towns, rivers, and beaches of my country. I was born in Mexico City in 1987.</abouttitlep1>
+			<abouttitlep2>I am committed to innovation and creativity, and I am always looking for new ways to solve problems and improve the user experience.</abouttitlep2>
+			<academictitle>Academic training</academictitle>
+			<academicsubtitle1>Software Engineering</academicsubtitle1>
+			<academicsubtitlep1>2018 - Ceneval Agreement 286</academicsubtitlep1>
+			<academicsubtitle2>Colegio de Bachilleres</academicsubtitle2>
+			<academicsubtitlep2>Bachillerato Tecnico Informatica</academicsubtitlep2>
+			<academicsubtitle3>Front-End</academicsubtitle3>
+			<academicsubtitlep3>Ongoing - Orcale + Alura</academicsubtitlep3>
+			<experiencetitle>Professional Experience</experiencetitle>
+			<experienceworktitle1>Chat 2D, HTML, Canvas, Javascript, NodeJS WebSockets</experienceworktitle1>
+			<experiencetext1>Real-time communication application with graphical environment</experiencetext1>
+			<experienceworktitle2>Mobile application, React Native, Firebase, Store, delivery and CMS</experienceworktitle2>
+			<experiencetext2>Focused on home deliveries, and real time tracking on google maps with push notifications.</experiencetext2>
+			<experienceworktitle3>Directory software, Unity, C#</experienceworktitle3>
+			<experiencetext3>Desktop software, for directories, Map editor and advertising</experiencetext3>
+			<experienceworktitle4>Directory Software, Adobe Flash, AS3, SenchaJS CMS</experienceworktitle4>
+			<experiencetext4>Mall directory software, desktop application and map editor</experiencetext4>
+			<experiencebotonrepo>Repository</experiencebotonrepo>
+			<experiencebotondemo>View demo</experiencebotondemo>
+			<contactotitle>Contact</contactotitle>
+			<contactocontactme>Would you like to contact me?</contactocontactme>
+			<contactotxt>Complete the following form and I will contact you as soon as possible.</contactotxt>
+			<formname>Name</formname>
+			<formemail>E-mail</formemail>
+			<formsubject>Subject</formsubject>
+			<formessage>Message</formessage>
+			<formbtnsend>Send message</formbtnsend>
+			<devinfo>Developed by </devinfo>
+			<autor>Faraday Martínez</autor>
+		</language>
+		<language id="pt">
+			<name>Pt</name>
+			<title>Softwarede Faraday</title>
+			<welcome>Bem-vindos!</welcome>
+			<about>Sobre mim</about>
+			<skills>Morte</skills>
+			<hobbies>Hobbies</hobbies>
+			<hobbies1>Permacultura</hobbies1>
+			<hobbies2>Aquicultura</hobbies2>
+			<hobbies3>Jardim</hobbies3>
+			<hobbies4>Viagem</hobbies4>
+			<hobbies5>e-learning</hobbies5>
+			<hobbies6>Video Games</hobbies6>
+			<formation>Educação</formation>
+			<projects>Projetos</projects>
+			<herobio>Olá, meu nome é Faraday e eu construo websites</herobio>
+			<herosubsection>Eu sou treinado em engenharia de software, atualmente estou participando do projeto Oracle ONE em Alura Latam.</herosubsection>
+			<cv>Curriculum</cv>
+			<abouttitle>Sobre mim</abouttitle>
+			<abouttitlep1>Sou um desenvolvedor autodidata de aplicações web e móveis com experiência em tecnologias modernas como Angular, Vue.js e React. Sou apaixonado por permacultura, bioconstrução, artesanato, jardinagem e viajar pelos povoados mágicos, rios e praias do meu país. Nasci na Cidade do México em 1987.</abouttitlep1>
+			<abouttitlep2>Estou comprometido com a inovação e criatividade, e estou sempre buscando novas formas de resolver problemas e melhorar a experiência do usuário.</abouttitlep2>
+			<academictitle>Treinamento acadêmico</academictitle>
+			<academicsubtitle1>Estratégia de software</academicsubtitle1>
+			<academicsubtitlep1>2018 - Acordo Ceneval 286</academicsubtitlep1>
+			<academicsubtitle2>Colegio de Bachilleres</academicsubtitle2>
+			<academicsubtitlep2>Bachillerato Tecnico Informatica</academicsubtitlep2>
+			<academicsubtitle3>Front-End</academicsubtitle3>
+			<academicsubtitlep3>Em curso - Orcale + Alura</academicsubtitlep3>
+			<experiencetitle>Experiência Profissional</experiencetitle>
+			<experienceworktitle1>Chat 2D, HTML, Canvas, Javascript, NodeJS WebSockets</experienceworktitle1>
+			<experiencetext1>Aplicação de comunicação em tempo real com ambiente gráfico</experiencetext1>
+			<experienceworktitle2>Aplicação móvel, React Native, Firebase, Store, delivery e CMS</experienceworktitle2>
+			<experiencetext2>Focado em entregas ao domicílio e rastreamento em tempo real em mapas google com notificações push.</experiencetext2>
+			<experienceworktitle3>Software de Diretório, Unidade, C#</experienceworktitle3>
+			<experiencetext3>Desktop software, para diretórios, editor de mapas e publicidade</experiencetext3>
+			<experienceworktitle4>Directory Software, Adobe Flash, AS3, SenchaJS CMS</experienceworktitle4>
+			<experiencetext4>Software de diretórios de arquivos, aplicativo de desktop e editor de mapas </experiencetext4>
+			<experiencebotonrepo>Repositório</experiencebotonrepo>
+			<experiencebotondemo>Ver demo</experiencebotondemo>
+			<contactotitle>Contacto</contactotitle>
+			<contactocontactme>Quer entrar em contato comigo?</contactocontactme>
+			<contactotxt>Preencha o seguinte formulário e eu entrarei em contato com você o mais rápido possível.</contactotxt>
+			<formname>Nome</formname>
+			<formemail>E-mail</formemail>
+			<formsubject>Subjunto</formsubject>
+			<formessage>Mensagem</formessage>
+			<formbtnsend>Enviar mensagem</formbtnsend>
+			<devinfo>Desenvolvido por </devinfo>
+			<autor>Faraday Martínez</autor>
+		</language>
+		<language id="it">
+			<name>Pt</name>
+			<title>Scudo Faraday</title>
+			<welcome>Benvenuto</welcome>
+			<about>Chi sono io</about>
+			<skills>Morte</skills>
+			<hobbies>Hobby</hobbies>
+			<hobbies1>Permacultura</hobbies1>
+			<hobbies2>Acquacoltura</hobbies2>
+			<hobbies3>Giardinaggio</hobbies3>
+			<hobbies4>Viaggiare</hobbies4>
+			<hobbies5>apprendimento</hobbies5>
+			<hobbies6>Videogiochi</hobbies6>
+			<formation>Educazione</formation>
+			<projects>Progetti</projects>
+			<herobio>Ciao, mi chiamo Faraday e costruisco siti web</herobio>.
+			<herosubsection>Ho una formazione in ingegneria del software, attualmente partecipo al progetto Oracle ONE in Alura Latam</herosubsection>.
+			<cv>Curriculum</cv>
+			<abouttitle>Di me</abouttitle>
+			<abouttitlep1>Sono uno sviluppatore autodidatta di applicazioni web e mobile con esperienza in tecnologie moderne come Angular, Vue.js e React. Sono appassionato di permacultura, bioedilizia, artigianato, giardinaggio e viaggiare attraverso le città magiche, i fiumi e le spiagge del mio paese. Sono nato a Città del Messico nel 1987.</abouttitlep1>
+			<abouttitlep2>Sono impegnato nell'innovazione e nella creatività, e cerco sempre nuovi modi per risolvere problemi e migliorare l'esperienza dell'utente.</abouttitlep2>
+			<academictitle>Formazione accademica</academictitle>
+			<academicsubtitle1>Strategia del software</academicsubtitle1>
+			<academicsubtitlep1>2018 - Accordo cenevale 286</academicsubtitlep1>
+			<academicsubtitle2>Colegio de Bachilleres</academicsubtitle2>
+			<academicsubtitlep2>Bachillerato Tecnico Informatica</academicsubtitlep2>
+			<academicsubtitle3>Front-End</academicsubtitle3>
+			<academicsubtitlep3>In corso - Orcale + Alura</academicsubtitlep3>
+			<experiencetitle>Esperienza professionale</experiencetitle>
+			<experienceworktitle1>D2Chat, HTML, Canvas, Javascript, NodeJS WebSockets</experienceworktitle1>
+			<experiencetext1>Applicazione di comunicazione in tempo reale con ambiente grafico</experiencetext1>
+			<experienceworktitle2>Applicazione mobile, React Native, Firebase, Store, consegna e CMS</experienceworktitle2>
+			<experiencetext2>Incentrata sulla consegna a domicilio e sul tracciamento in tempo reale su google maps con notifiche push</experiencetext2>
+			<experienceworktitle3>Software di directory, Unity, C#</experienceworktitle3>
+			<experiencetext3>Software desktop, per directory, editor di mappe e pubblicità</experiencetext3>
+			<experienceworktitle4>Software per elenchi, Adobe Flash, AS3, SenchaJS CMS</experienceworktitle4>
+			<experiencetext4>Software per directory di file, applicazione desktop ed editor di mappe</experiencetext4>
+			<experiencebotonrepo>Repository</experiencebotonrepo>
+			<experiencebotondemo>Vedi la demo</experiencebotondemo>
+			<contactotitle>Contatto</contactotitle>
+			<contactocontactme>Volete contattarmi? </contactocontactme>
+			<contactotxt>Compilate il seguente modulo e vi risponderò il prima possibile.</contactotxt>
+			<formname>Nome</formname>
+			<formemail>E-mail</formemail>
+			<formsubject>Oggetto</formsubject>
+			<formessage>Messaggio</formessage>
+			<formbtnsend>Invia messaggio</formbtnsend>
+			<devinfo>Sviluppato da </devinfo>
+			<autor>Faraday Martinez</autor>
+		</language>
+	</languages>
+</portfolio>
+
+
+
+
+

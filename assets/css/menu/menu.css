@@ -1,0 +1,38 @@
+section.menu {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-block-end: 1.6rem;
+    margin-inline-end: 1.4rem;
+    margin-inline-start: 1.4rem;
+
+}
+
+@media screen and (min-width:0px) {
+    section.menu {
+        margin-block-start: 1.85rem;
+        margin-block-end: 1.725rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    section.menu {
+        margin-inline-end: 3.2rem;
+        margin-inline-start: 3.2rem;
+    }
+}
+
+@media screen and (min-width:1080px) {
+    section.menu {
+        margin-inline-end: 3.2rem;
+        margin-inline-start: 3.2rem;
+    }
+}
+
+@media screen and (min-width:1440px) {
+    section.menu {
+        margin-inline-start: 15.2rem;
+        margin-inline-end: 15.2rem;    
+    }
+}
+

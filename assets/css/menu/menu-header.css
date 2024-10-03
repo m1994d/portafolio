@@ -1,0 +1,12 @@
+.menu__header {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+@media screen and (max-width: 0) {
+    .menu__header {
+        font-size: 1.4rem;
+        line-height: 1.644;
+    }
+}

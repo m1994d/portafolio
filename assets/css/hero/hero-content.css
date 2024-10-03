@@ -1,0 +1,31 @@
+.hero__content {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+@media screen and (min-width:0px) {
+    .hero__content {
+        flex-flow: column;
+
+    }
+}
+
+@media screen and (min-width:768px) {
+    .hero__content {
+        flex-direction: row-reverse;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width:1080px) {
+    .hero__content { 
+        flex-direction: row-reverse;
+    }
+}
+
+@media screen and (min-width:1440px) {
+    .hero__content {
+        flex-direction: row-reverse;
+    }
+}
