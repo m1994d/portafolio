@@ -39,16 +39,16 @@ const errorTypes = [
 
 const mensajesDeError = {
     nombre: {
-        valueMissing: "El campo nombre no puede estar vacío",
+        valueMissing: "The name field cannot be empty",
     },
     email: {
-        valueMissing: "El campo correo no puede estar vacío",
-        typeMismatch: "El correo no es válido",
-        patternMismatch: "El correo no es válido",
+        valueMissing: "The mail field cannot be empty",
+        typeMismatch: "The mail is invalid",
+        patternMismatch: "The mail is invalid",
     },
     asunto: {
-        valueMissing: "El campo asunto no puede estar vacío",
-        typeMismatch: "El asunto no es válido",
+        valueMissing: "The subject field cannot be empty",
+        typeMismatch: "The matter is not valid",
     },
 };
 
