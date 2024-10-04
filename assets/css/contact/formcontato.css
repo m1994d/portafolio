@@ -3,20 +3,20 @@ section.formcontato {
     color: var(--color-de-fuente);
     display: flex;
     justify-content: center;
-    padding: 3.2rem;
+    padding: 3.8rem;
 }
 
 
 
-@media screen and (min-width: 0) {
+@media screen and (min-width: 0px) {
     section.formcontato {
-        padding: 3.2rem;
+        padding: 8rem 10.5rem 6.5rem 12.5rem;
     }
 }
 
 @media screen and (min-width: 768px) {
     section.formcontato {
-        padding: 3.2rem;
+        padding: 10rem;
     }
 }
 
