@@ -6,13 +6,13 @@
 
 .menu_tech {
     color: #fff; /* Color por defecto */
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99; /* Efecto neón */
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0055, 0 0 30px #ff0055, 0 0 40px #ff0055, 0 0 50px #ff0055, 0 0 60px #ff0055; /* Efecto neón */
     transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 .menu_tech:hover {
-    color: #00ff99; /* Color neón cuando el cursor pasa por encima */
-    text-shadow: 0 0 10px #fff, 0 0 20px #00ff99, 0 0 30px #00ff99, 0 0 40px #00ff99, 0 0 50px #00ff99, 0 0 60px #00ff99, 0 0 70px #00ff99;
+    color: #ff0055; /* Color neón cuando el cursor pasa por encima */
+    text-shadow: 0 0 10px #fff, 0 0 20px #ff0055, 0 0 30px #ff0055, 0 0 40px #ff0055, 0 0 50px #ff0055, 0 0 60px #ff0055, 0 0 70px #ff0055;
     font-weight: bold; /* Opción para hacer más grueso el texto */
 }
 
